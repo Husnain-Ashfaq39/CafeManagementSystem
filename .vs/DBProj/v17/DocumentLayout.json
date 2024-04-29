@@ -1,0 +1,1045 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|c:\\users\\husnain\\desktop\\cafe-management-system\\cafe-management-system-main[1]\\cafe-management-system-main\\dbproj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addfoodcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addfoodcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addfoodcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addfoodcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addfoodcategory.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addfoodcategory.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addmenu.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addmenu.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addinventoryitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addinventoryitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\managerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\managerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\managerhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\managerhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\managerhome.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\managerhome.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\manageinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\manageinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\managemenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\managemenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\managemenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\managemenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\paymentdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\paymentdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\paymentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\paymentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\paymentdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\paymentdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\placeorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\placeorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\orderinventoryitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\orderinventoryitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\profitmargin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\profitmargin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\profitmargin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\profitmargin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\orderinventoryitem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\orderinventoryitem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\profile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\profile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addinventoryitem.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addinventoryitem.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\addinventoryitem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\addinventoryitem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\customerreviews.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\customerreviews.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\customerorderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\customerorderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\mostsellingitems.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\mostsellingitems.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\mostsellingitems.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\mostsellingitems.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\mostsellingcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\mostsellingcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\reportshomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\reportshomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\viewinventoryorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\viewinventoryorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\manageinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\manageinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\inventoryhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\inventoryhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\inventoryhome.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\inventoryhome.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\inventoryhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\inventoryhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\viewinventoryorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\viewinventoryorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\customerreviews.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\customerreviews.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\reportshomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\reportshomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\placeorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\placeorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\ordercheckout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\ordercheckout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\myorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\myorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\mostsellingitems.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\mostsellingitems.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\rateservice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\rateservice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\mostsellingcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\mostsellingcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\customerregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\customerregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\customerorderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\customerorderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\customerhomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\customerhomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\myorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\myorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\registration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\registration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\rateservice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\rateservice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\placeorders.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\placeorders.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\ordercheckout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\ordercheckout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\dbproj\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{65D81BD2-233D-439F-946A-ECB520CC8019}|DBProj\\DBProj.csproj|solutionrelative:dbproj\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddFoodCategory.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddFoodCategory.aspx",
+              "RelativeDocumentMoniker": "DBProj\\AddFoodCategory.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddFoodCategory.aspx",
+              "RelativeToolTip": "DBProj\\AddFoodCategory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:48.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddFoodCategory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddFoodCategory.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\AddFoodCategory.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddFoodCategory.aspx.cs",
+              "RelativeToolTip": "DBProj\\AddFoodCategory.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:49.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\LoginPage.aspx.cs",
+              "RelativeToolTip": "DBProj\\LoginPage.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:49.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\WebForm1.aspx.cs",
+              "RelativeToolTip": "DBProj\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:12:50.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\WebForm1.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\WebForm1.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vzUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddFoodCategory.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddFoodCategory.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\AddFoodCategory.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddFoodCategory.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\AddFoodCategory.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddMenu.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddMenu.aspx",
+              "RelativeDocumentMoniker": "DBProj\\AddMenu.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddMenu.aspx",
+              "RelativeToolTip": "DBProj\\AddMenu.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddMenu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddMenu.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\AddMenu.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddMenu.aspx.cs",
+              "RelativeToolTip": "DBProj\\AddMenu.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMenu.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddMenu.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\AddMenu.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddMenu.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\AddMenu.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "DBProj\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\LoginPage.aspx",
+              "RelativeToolTip": "DBProj\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddInventoryItem.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddInventoryItem.aspx",
+              "RelativeDocumentMoniker": "DBProj\\AddInventoryItem.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddInventoryItem.aspx",
+              "RelativeToolTip": "DBProj\\AddInventoryItem.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManagerHome.aspx",
+              "RelativeDocumentMoniker": "DBProj\\ManagerHome.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManagerHome.aspx",
+              "RelativeToolTip": "DBProj\\ManagerHome.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManagerHome.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\ManagerHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManagerHome.aspx.cs",
+              "RelativeToolTip": "DBProj\\ManagerHome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManagerHome.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManagerHome.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\ManagerHome.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManagerHome.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\ManagerHome.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageInventory.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManageInventory.aspx",
+              "RelativeDocumentMoniker": "DBProj\\ManageInventory.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManageInventory.aspx",
+              "RelativeToolTip": "DBProj\\ManageInventory.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageMenu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManageMenu.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\ManageMenu.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManageMenu.aspx.cs",
+              "RelativeToolTip": "DBProj\\ManageMenu.aspx.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageMenu.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManageMenu.aspx",
+              "RelativeDocumentMoniker": "DBProj\\ManageMenu.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManageMenu.aspx",
+              "RelativeToolTip": "DBProj\\ManageMenu.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PaymentDetails.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\PaymentDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PaymentDetails.aspx.cs",
+              "RelativeToolTip": "DBProj\\PaymentDetails.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PaymentDetails.aspx",
+              "RelativeDocumentMoniker": "DBProj\\PaymentDetails.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PaymentDetails.aspx",
+              "RelativeToolTip": "DBProj\\PaymentDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentDetails.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PaymentDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\PaymentDetails.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PaymentDetails.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\PaymentDetails.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlaceOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PlaceOrders.aspx",
+              "RelativeDocumentMoniker": "DBProj\\PlaceOrders.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PlaceOrders.aspx",
+              "RelativeToolTip": "DBProj\\PlaceOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderInventoryItem.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\OrderInventoryItem.aspx",
+              "RelativeDocumentMoniker": "DBProj\\OrderInventoryItem.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\OrderInventoryItem.aspx",
+              "RelativeToolTip": "DBProj\\OrderInventoryItem.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProfitMargin.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ProfitMargin.aspx",
+              "RelativeDocumentMoniker": "DBProj\\ProfitMargin.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ProfitMargin.aspx",
+              "RelativeToolTip": "DBProj\\ProfitMargin.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProfitMargin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ProfitMargin.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\ProfitMargin.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ProfitMargin.aspx.cs",
+              "RelativeToolTip": "DBProj\\ProfitMargin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderInventoryItem.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\OrderInventoryItem.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\OrderInventoryItem.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\OrderInventoryItem.aspx.cs",
+              "RelativeToolTip": "DBProj\\OrderInventoryItem.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Profile.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Profile.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\Profile.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Profile.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\Profile.aspx.designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddInventoryItem.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddInventoryItem.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\AddInventoryItem.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddInventoryItem.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\AddInventoryItem.aspx.designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddInventoryItem.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddInventoryItem.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\AddInventoryItem.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\AddInventoryItem.aspx.cs",
+              "RelativeToolTip": "DBProj\\AddInventoryItem.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerReviews.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerReviews.aspx",
+              "RelativeDocumentMoniker": "DBProj\\CustomerReviews.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerReviews.aspx",
+              "RelativeToolTip": "DBProj\\CustomerReviews.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MostSellingItems.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingItems.aspx",
+              "RelativeDocumentMoniker": "DBProj\\MostSellingItems.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingItems.aspx",
+              "RelativeToolTip": "DBProj\\MostSellingItems.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MostSellingItems.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingItems.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\MostSellingItems.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingItems.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\MostSellingItems.aspx.designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MostSellingCategory.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingCategory.aspx",
+              "RelativeDocumentMoniker": "DBProj\\MostSellingCategory.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingCategory.aspx",
+              "RelativeToolTip": "DBProj\\MostSellingCategory.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerOrderDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerOrderDetails.aspx",
+              "RelativeDocumentMoniker": "DBProj\\CustomerOrderDetails.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerOrderDetails.aspx",
+              "RelativeToolTip": "DBProj\\CustomerOrderDetails.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReportsHomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ReportsHomePage.aspx",
+              "RelativeDocumentMoniker": "DBProj\\ReportsHomePage.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ReportsHomePage.aspx",
+              "RelativeToolTip": "DBProj\\ReportsHomePage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManageInventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManageInventory.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\ManageInventory.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ManageInventory.aspx.cs",
+              "RelativeToolTip": "DBProj\\ManageInventory.aspx.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ViewInventoryOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ViewInventoryOrders.aspx",
+              "RelativeDocumentMoniker": "DBProj\\ViewInventoryOrders.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ViewInventoryOrders.aspx",
+              "RelativeToolTip": "DBProj\\ViewInventoryOrders.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InventoryHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\InventoryHome.aspx",
+              "RelativeDocumentMoniker": "DBProj\\InventoryHome.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\InventoryHome.aspx",
+              "RelativeToolTip": "DBProj\\InventoryHome.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InventoryHome.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\InventoryHome.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\InventoryHome.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\InventoryHome.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\InventoryHome.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\DbConnector.cs",
+              "RelativeDocumentMoniker": "DBProj\\DbConnector.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\DbConnector.cs",
+              "RelativeToolTip": "DBProj\\DbConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:12:52.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InventoryHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\InventoryHome.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\InventoryHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\InventoryHome.aspx.cs",
+              "RelativeToolTip": "DBProj\\InventoryHome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "DBProj\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\WebForm1.aspx",
+              "RelativeToolTip": "DBProj\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ViewInventoryOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ViewInventoryOrders.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\ViewInventoryOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ViewInventoryOrders.aspx.cs",
+              "RelativeToolTip": "DBProj\\ViewInventoryOrders.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReportsHomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ReportsHomePage.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\ReportsHomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\ReportsHomePage.aspx.cs",
+              "RelativeToolTip": "DBProj\\ReportsHomePage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\Registration.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Registration.aspx.cs",
+              "RelativeToolTip": "DBProj\\Registration.aspx.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CustomerReviews.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerReviews.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\CustomerReviews.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerReviews.aspx.cs",
+              "RelativeToolTip": "DBProj\\CustomerReviews.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PlaceOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PlaceOrders.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\PlaceOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PlaceOrders.aspx.cs",
+              "RelativeToolTip": "DBProj\\PlaceOrders.aspx.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAowCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MyOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MyOrders.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\MyOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MyOrders.aspx.cs",
+              "RelativeToolTip": "DBProj\\MyOrders.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderCheckout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\OrderCheckout.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\OrderCheckout.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\OrderCheckout.aspx.cs",
+              "RelativeToolTip": "DBProj\\OrderCheckout.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MostSellingItems.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingItems.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\MostSellingItems.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingItems.aspx.cs",
+              "RelativeToolTip": "DBProj\\MostSellingItems.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RateService.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\RateService.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\RateService.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\RateService.aspx.cs",
+              "RelativeToolTip": "DBProj\\RateService.aspx.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Profile.aspx.cs",
+              "RelativeToolTip": "DBProj\\Profile.aspx.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MostSellingCategory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingCategory.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\MostSellingCategory.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MostSellingCategory.aspx.cs",
+              "RelativeToolTip": "DBProj\\MostSellingCategory.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CustomerRegistration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerRegistration.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\CustomerRegistration.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerRegistration.aspx.cs",
+              "RelativeToolTip": "DBProj\\CustomerRegistration.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CustomerOrderDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerOrderDetails.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\CustomerOrderDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerOrderDetails.aspx.cs",
+              "RelativeToolTip": "DBProj\\CustomerOrderDetails.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomerHomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerHomePage.aspx.cs",
+              "RelativeDocumentMoniker": "DBProj\\CustomerHomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\CustomerHomePage.aspx.cs",
+              "RelativeToolTip": "DBProj\\CustomerHomePage.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MyOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MyOrders.aspx",
+              "RelativeDocumentMoniker": "DBProj\\MyOrders.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\MyOrders.aspx",
+              "RelativeToolTip": "DBProj\\MyOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Registration.aspx",
+              "RelativeDocumentMoniker": "DBProj\\Registration.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Registration.aspx",
+              "RelativeToolTip": "DBProj\\Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RateService.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\RateService.aspx",
+              "RelativeDocumentMoniker": "DBProj\\RateService.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\RateService.aspx",
+              "RelativeToolTip": "DBProj\\RateService.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Profile.aspx",
+              "RelativeDocumentMoniker": "DBProj\\Profile.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Profile.aspx",
+              "RelativeToolTip": "DBProj\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Registration.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Registration.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\Registration.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Registration.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\Registration.aspx.designer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PlaceOrders.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PlaceOrders.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DBProj\\PlaceOrders.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\PlaceOrders.aspx.designer.cs",
+              "RelativeToolTip": "DBProj\\PlaceOrders.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderCheckout.aspx",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\OrderCheckout.aspx",
+              "RelativeDocumentMoniker": "DBProj\\OrderCheckout.aspx",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\OrderCheckout.aspx",
+              "RelativeToolTip": "DBProj\\OrderCheckout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-04-29T10:12:52.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Web.Release.config",
+              "RelativeDocumentMoniker": "DBProj\\Web.Release.config",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Web.Release.config",
+              "RelativeToolTip": "DBProj\\Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Web.Debug.config",
+              "RelativeDocumentMoniker": "DBProj\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\Husnain\\Desktop\\Cafe-Management-System\\Cafe-Management-System-main[1]\\Cafe-Management-System-main\\DBProj\\Web.Debug.config",
+              "RelativeToolTip": "DBProj\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-29T10:12:52.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
